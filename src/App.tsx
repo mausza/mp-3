@@ -1,4 +1,4 @@
-import "./App.css";
+import './App.css';
 
 import {RouterProvider, createBrowserRouter, Route, Routes, useLocation} from 'react-router-dom';
 import {useEffect} from "react";
